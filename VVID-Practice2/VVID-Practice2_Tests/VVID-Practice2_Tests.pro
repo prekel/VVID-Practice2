@@ -7,7 +7,8 @@ CONFIG += thread
 
 HEADERS += \
     Variant29Tests.h \
-    Variant30Tests.h
+    Variant30Tests.h \
+    Variant01Tests.h
 
 SOURCES += \
     main.cpp
