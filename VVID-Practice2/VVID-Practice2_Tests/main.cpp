@@ -1,6 +1,7 @@
 #include <gtest/gtest.h>
 
 #include "Variant29Tests.h"
+#include "Variant30Tests.h"
 
 int main(int argc, char *argv[])
 {

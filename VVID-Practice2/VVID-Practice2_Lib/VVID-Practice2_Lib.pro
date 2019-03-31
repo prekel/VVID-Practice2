@@ -7,10 +7,12 @@ CONFIG += staticlib
 DEFINES += QT_DEPRECATED_WARNINGS
 
 SOURCES += \
-    Variant29.cpp
+    Variant29.cpp \
+    Variant30.cpp
 
 HEADERS += \
-    Variant29.h
+    Variant29.h \
+    Variant30.h
 
 unix {
     target.path = /usr/lib

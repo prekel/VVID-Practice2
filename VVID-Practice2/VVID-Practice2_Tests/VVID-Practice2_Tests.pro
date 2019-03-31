@@ -6,7 +6,8 @@ CONFIG -= app_bundle
 CONFIG += thread
 
 HEADERS += \
-    Variant29Tests.h
+    Variant29Tests.h \
+    Variant30Tests.h
 
 SOURCES += \
     main.cpp
