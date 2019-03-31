@@ -1,6 +1,7 @@
 #ifndef VARIANT01_H
 #define VARIANT01_H
 
+#include <cmath>
 #include <QVector>
 
 double MinValue(const QVector<double> a);

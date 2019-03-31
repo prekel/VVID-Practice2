@@ -2,6 +2,7 @@
 
 #include "Variant29Tests.h"
 #include "Variant30Tests.h"
+#include "Variant01Tests.h"
 
 int main(int argc, char *argv[])
 {
