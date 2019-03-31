@@ -4,6 +4,6 @@
 #include <QMap>
 #include <QVector>
 
-QMap<int, QVector<int>> Variant30(QVector<int> a);
+QMap<int, QVector<int>> Variant30(const QVector<int> a);
 
 #endif // VARIANT30_H
