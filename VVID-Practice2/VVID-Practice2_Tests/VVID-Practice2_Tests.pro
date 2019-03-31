@@ -4,10 +4,9 @@ TEMPLATE = app
 CONFIG += console c++11
 CONFIG -= app_bundle
 CONFIG += thread
-CONFIG -= qt
 
 HEADERS += \
-    tst_variant29tests.h
+    Variant29Tests.h
 
 SOURCES += \
     main.cpp

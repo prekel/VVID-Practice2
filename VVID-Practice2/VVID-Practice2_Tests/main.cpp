@@ -1,6 +1,6 @@
-#include "tst_variant29tests.h"
-
 #include <gtest/gtest.h>
+
+#include "Variant29Tests.h"
 
 int main(int argc, char *argv[])
 {
